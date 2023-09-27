@@ -1,0 +1,626 @@
+
+
+Duena Blomstrom (00:06.194)
+Hello everyone and welcome back to our People and Tech pod where we talk about not just people and not just technology but both of them. And this week we're in a fairly better mood for various reasons, no less because we're about to leave on a very short trip and because we will tell you a little bit about that maybe in a minute.
+
+Dave (00:06.222)
+Hi everyone and welcome back to our deeper and technical support where we talk about not just technologies but also phones and phones and this week we are in a fairly buttoned mode for various reasons because we are about to introduce our new phone, the new phone 3, 10, we will tell you a little bit about that in a minute
+
+Duena Blomstrom (00:35.606)
+and because as you can see behind Dave this is um world premiere no one no one has yet seen it um but if you are watching us if you are watching us that is indeed a real life in the world copy of the book it moves and everything it has pages a real dead tree oh yeah i guess it would be
+
+Dave (00:35.618)
+and because as you can see behind me was no one that's weird no one has yet but if you are a large copy yes if you are watching us that can be a real
+
+Duena Blomstrom (01:05.222)
+I'm sure they make it in a more responsible way these days. But yes, the books, the first few books have come out of the press where we're about to announce over the next few days and it's nice to have it, isn't it? It's nice to see it in our hands and touch it, yes, after it. You'll know this when you get to writing your book, Dave, that it's this feeling of at least it's out of the way and at least I've gotten it out.
+
+Dave (01:22.707)
+You know that you get the right to your own face.
+
+Dave (01:29.746)
+It's this painting of a glitch that's out of the way and a big tax ghost in his arms. It's almost a little bit like he's leaving his house. Yeah. But let's see what you think. Anyway, so yeah. Yeah, no, I saw your process and yes I did fill that paint with you as well. I was in the metaphorical delivery room. Oh, shit. For those of you that are not seeing this, I know.
+
+Duena Blomstrom (01:35.502)
+it's almost a little bit like getting babies out but for less important things anyhow so yeah oh for those of you that are not seeing this online you would have missed it that the book has
+
+Dave (01:58.262)
+The book got its own back on me in the tax money. Yeah. It did happen. It did. Yeah. It was quite on me. So. It's almost predictable that was going to happen, really. We had some incidents that were in that book. Yeah, 50th take. It's like those dudes trying to get ping pong balls into. Ping pong balls. Yeah. So we're going to go into the competition. Of course, we're quickly after the red card
+
+Duena Blomstrom (02:00.754)
+It has attacked him, yes. It did fell on him. So... There's almost no prediction of what else could happen. We put that in place and we've arranged that for the effect. 50 is like... At long last, yes. So we're going on vacation quite quickly after we've went on our other vacation. That is because none of our vacations are genuine vacations.
+
+We take very little time off completely these days. We're trying to, maybe we should talk about this a little bit. We're trying to build a sustainable exec culture in tech-led culture and in people not tech. And that means to us finding the rhythm that everyone enjoys most.
+
+Dave (02:56.122)
+and it also means that we have been in the past, right? Then it all comes, so should we know, we've had a long period of having to start telling stories. I think that's fair to say. Right. Yeah. Well, what have we learned?
+
+Duena Blomstrom (02:56.13)
+and it also means that we get to do meaningful things that really get us in the heart, right? And over the last, gosh, it's been now two weeks we've had, three weeks we've had, a long period of having to search our souls. Right, and where have we gotten to? What have we...
+
+What have we learned? We have to say guys that the response to something that we've put out last week has been tremendous and we are really grateful. People genuinely understand the need for it. People have seen that where we're coming from and how we're genuinely trying to just help any industry at this point. So we're grateful for that. It's been taken the right way.
+
+Dave (03:24.246)
+I think the response to something that you put out last week has been tremendous, really grateful. People generally understand that we, where people have seen that we're at home and we're doing something for our students. They have a different choice. So we're a great provider, we've given them a lot to work with. Yeah, yeah, been a very good response, hasn't it? And, you know...
+
+Duena Blomstrom (03:51.394)
+And with that said, we know that there are hundreds of thousands of teams out there that could use it and we're scrambling to get it out to them somehow. Yeah. Let's hope people come to hear that. With the scaling stuff in place, all the stuff in place. So from a point of view of sending software down the line in prod, yeah.
+
+Dave (04:02.022)
+Yeah. Let's hope it will hold together. With the scaling of stuff in place, I'm sure that's all working fine. All the alarms in place.
+
+Dave (04:16.302)
+spending.
+
+Duena Blomstrom (04:20.65)
+This is scalable. If there are any scalability issues of which there are none. Because it's all been calculated really well. Well, it's long been in the works. And I'd like to point this out very clearly. And as a product owner, I would say it. Our product has always been a lot more scalable than five teams are ever going to need it.
+
+Dave (04:21.522)
+Yeah, there's a scalability issue Because it's all been calculated really well
+
+Dave (04:36.45)
+in the work.
+
+Dave (04:42.622)
+Our project has always been a lot more feasible than five seats, however it can be. We are ready to begin a project that is built with care in mind. Absolutely, yeah. Yeah. No, we don't have. We will have. Do.
+
+Duena Blomstrom (04:47.958)
+We are at the end of the day an enterprise product that is built with scale in mind. Absolutely. No worries about that. More worried about do people have the capability to avail themselves of what we're giving them at this point.
+
+Dave (05:03.63)
+capability to avail them of what we're giving them.
+
+Dave (05:10.282)
+do people understand actually what is happening here? do people understand what the difference between the tech debt is and what the human debt is? and where the competition is at, do they get it? and i do love your words baby there's a lot of good words in there and it speaks a lot of sense as i said i think a little bit before sometimes it's just that little bit level two
+
+Duena Blomstrom (05:10.302)
+Do you understand actually what is happening?
+
+Do people understand what the difference between the tech deck is and what the human deck is? This is where the conversation starts, right? Do they get it? Do they get it? And I do like your words, baby. There's a lot of good words in there, but it makes a lot of sense. As I said, I think a little bit before, sometimes it's just that little bit, a little too much. There's the major but.
+
+Dave (05:40.378)
+been trying to break it down. And it's over.
+
+Duena Blomstrom (05:42.25)
+the major part of having to translate the end of having to translate what in the world it all means to the community so people can consume it. I have accepted that, right? It's partly my fault that I haven't been more clear over the years, I suspect. Yeah, so for those of us listening to this that are not aware what we're on about, which sometimes includes us.
+
+Dave (06:03.238)
+Yeah. So for those of us who don't know this, then I don't know what we're talking about. We have, in the last few weeks, re-incorporated our B2C enterprise of one sort of renominated
+
+Duena Blomstrom (06:11.718)
+We have spent the last few weeks repurposing our B2B enterprise offer so that it now reaches teams directly and it reaches teams through just in the one team or in packs of 10. Just very small amounts of teams can get on which is a massive change because as many of you know
+
+Dave (06:32.046)
+the amount of things can get on, which is a nice, it's a nice treat because as many of you know, over the last few years, we have held this battle with everything, the world, to the three bypasses in the back, instead of the top front. It's a lot slower than at night, and it's cut in with the sort of global access that we want, and that's just shot in all of it. Obviously, it has a little bit of a shorter
+
+Duena Blomstrom (06:38.598)
+Over the last few years, we have held this battle with every industry in the world so that we bypass their human debt and keep them with the software. It's a lot slower than we'd like and to help the industry we've decided to open access to everyone. So that's the short and long of it. Obviously it comes with a little bit of soul searching in terms of becoming a social entrepreneur and intentionally in a sense on our part.
+
+But it also comes with the need to genuinely reach everyone in there where they are and with their work. So part of this work has been me admitting that maybe I'm not as clear to every audience. And then thankfully the people in my team helping to make that translation to markets and don't otherwise understand what the hell I'm on about. Yeah, obviously.
+
+Dave (07:08.831)
+Yeah, yeah, I mean, obviously, baby, not downplaying it as well.
+
+Dave (07:31.93)
+But moving from the B2B model to the B2C model, there's a fair few bits and pieces which we need to get in place there and we're not quite there yet with all the videos and the training and Look-throughs and things like that. We need to get there but Hopefully by the end of this week, it's all going to be in place and make a lot more sense to a lot more people
+
+Duena Blomstrom (07:32.99)
+the big V2V model, the big Z model. But there's a fair few of the changes that we need to get in place there. And we're not quite there yet, we've got more videos and training and more food and things like that we need to get there, but hopefully by the end of this week it's all going to be in place and make a lot more sense to a lot more people. Yes, yes, it's all in process, it's all moving, it's all alive, and it's all
+
+Duena Blomstrom (08:02.942)
+so connected with every piece of the theory and every piece of the practice at the same time, right? Because we are in this very, very fortunate position that I think very few people are in, which is we get to make software, we get to make software that makes a difference in the world, and we get a front-seat view to that impact.
+
+Dave (08:03.138)
+So connected with every piece of the theory and practice at the same time, right? Because we are in this very, very important position. I think very few people are in, which is we get to make software. We get to make software that makes a difference in the world. And we get a strong view to that.
+
+Duena Blomstrom (08:31.814)
+which let's face it, most people making software don't have. That alone is something worthwhile to be grateful for, which brings me to something that we haven't discussed or gonna discuss, but I wanna mention real quick, which is when this comes out, it would be very close to or on gratitude day, international gratitude day and all world gratitude day. And if you...
+
+Dave (08:31.818)
+which let's face it, most of your baking subjects don't have. That alone is something worthwhile and to be grateful for. Which brings me to something that we haven't discussed about this class, but I want to mention it a quick, which is when they come out, it would be very close or on gratitude day, International Gratitude Day, and all the words of gratitude day. And if you do nothing else for yourself,
+
+Duena Blomstrom (08:58.462)
+Do nothing else for yourself listening to this today other than that. Spend, promise me you'll spend 10-15 minutes researching the direct neurological effects of gratitude on the brain of humans that involve themselves in it. Because it's the one piece of genuine resiliency advice I can give anyone in the workplace today.
+
+Dave (09:01.522)
+I would like to say a couple of things. Come with me for a few minutes researching the direct neural loge effect of gratitude on the brain of humans that are involved with something. Because it's one big...
+
+genuine resilience like to give anyone in the workplace today. Let's begin with a little tiny moment. So in our tiny little tiny moment that we're feeling the things all of us have done, there's been a lot of fun. It's all been super hard. Yeah, it is super hard. I mean, trying to piece this all together from the technical angle and you know.
+
+Duena Blomstrom (09:26.834)
+Let's be grateful for little tiny moments. And in our case, these tiny moments are that we've built, we're building this thing, all of us together. We're building teams. It's a lot of fun. It's also super hard. Let's face it. It's super hard.
+
+Duena Blomstrom (09:46.762)
+trying to fix this together from a technical angle and turning me into a theorist who can be quite awkward sometimes. You know, not being in the story.
+
+Dave (09:50.798)
+turning me into a CEO who can be quite uncooperative at sometimes, you know, not the easiest job in the world you've taken yourself on for there.
+
+Duena Blomstrom (10:00.986)
+I think you're an incredible paddler one, I'm not worried. It's a typical technique to manage your real well.
+
+Dave (10:06.13)
+It's a typical techie to manage your real world seat of the pants, see how sucky and see how it goes.
+
+Duena Blomstrom (10:10.89)
+seat of the pants so you can see where we are. I mean we are, we are, we're not talking enough about this. We're piloting and trying different things as we go. We are changing engines in flight. We're so agile we sometimes forget what all projects we have in movement. Not necessarily a good thing.
+
+Dave (10:21.714)
+and trying as we go.
+
+changing engines inside, and when it's so agile, we forget what all producing have been moved once from the facility and that's the thing. But what we're doing is trying all the things. There's a lot happening in the sense of trying to brand and mine an idea of more creative. There's a lot happening in creating some automated heartlines to be in the system here, creating some knowledge bases.
+
+Duena Blomstrom (10:38.738)
+But we're doing all the things, we're trying all the things. There's a lot happening in terms of trying to make brands and minds and ideas more cohesive. There's a lot happening in terms of us creating some automated pipelines that the industry can use, creating some knowledge bases that are necessary, in particular in this day and age when so much misinformation and bad reporting is flying around. And so a lot is happening on our side.
+
+Dave (10:56.75)
+that are not selling but it can just be an agent to provide this information that is what we just find around. And so, I know it's happening on the side. And obviously, we're also running a company. So, it's a lot. It's time. It's important. And it's too much for us. And if it's more than that, we can work while you can get back to wake up the students. Well, no.
+
+Duena Blomstrom (11:07.93)
+running a software company as a day job. So it's a lot, it's fun, it's important and it's worthwhile. And if it weren't important, worthwhile, we wouldn't be able to wake up and do it, would we? That doesn't happen. It just takes you a little bit longer. Yeah.
+
+Dave (11:22.338)
+No, sometimes you can hardly wake up anyway, regardless of how worthwhile it is. Yeah.
+
+Duena Blomstrom (11:32.134)
+And I think this is worth saying maybe and lifting the veil from. I think one of the things that's really surprising some of our new team members is just how much day-to-day vision presentation an enterprise that's complicated takes, right? So when you do something, the more complex it is, the harder it is, the more you need to have been topped up with the amount of...
+
+Dave (11:41.662)
+is how much day to day vision, present, and enterprise that completely takes, right? So when you do something, the more complex it is, the harder it is, the more you need to be topped up with the amount of projection and gobbling and any other things with chemicals we can get around the process of doing.
+
+Duena Blomstrom (12:01.726)
+projection and dopamine and serotonin and any other feel-good chemicals we can get around the process of doing this thing. So if we can project it, it will bring us enough joy, we'll want to involve ourselves in it, that's the basis of motivation. Now if we understand what that motivation means for us personally and what it means for the team, and then we can start.
+
+Dave (12:11.542)
+Right? So if you can project it, it will bring us in our joy with one of those things that is the base of motivation. Now, if we understand what motivation means for us personally, what it means for the future, and then we start changing our behavior in a way that makes us more performant, that's what we're trying to get at. Right? But this behavior to bring motivation as the day.
+
+Duena Blomstrom (12:28.938)
+changing those behaviors in a way that make us more performant, that's what we're trying to get happening at work, right? But this being able to bring motivation every day and being able to remind people why we're doing it sometimes becomes not an everyday task but a hateful hourly task. And you know, you're feeling it yourself. It's super hard to keep people on vision, not on task. It's on vision it's hard to keep people not on task.
+
+Dave (12:40.563)
+and being able to remind people why we're doing it, sometimes it becomes not only the daytime, but it's for our later. And you know, you're giving yourself the key to keep people on vision, not just vision. It's on vision in practice, if you are not on time. Yeah. Yes. I mean, we can do all the pomodoro as we like, but sometimes we do throw the toys out the pan.
+
+Duena Blomstrom (13:04.608)
+Yeah, yes.
+
+Dave (13:08.286)
+a lot of going around their houses and fruity discussions and backwards and forwards but we eventually get there don't we and you know we still got abided by the Amazon disagreeing commit once we've decided on the course of action we decided on the course of action and we're going to do that it doesn't matter what's happened before then who had what views who got overruled who said what who said when we're going to crack on and do that now
+
+Duena Blomstrom (13:08.314)
+a lot of going round the house and having to put the discussion back and forwards. But we eventually get there don't we? But we still got applied by the Amherst and the Disagreeing Committee. Once we've decided on the course of action, we've decided on the course of action, we're going to do that. It doesn't matter what's happened before then. Who had what views, who got out for what, who said what, who said when.
+
+going to crack on it. Well for this print we were not for forever right but um yes and look these are I think some principles of these newfangled ones um really are worthwhile I think disagreeing commit is one um the memo coming out of amazon I say this to all our clients consider it and
+
+Dave (13:37.817)
+Oh, yeah.
+
+Yes, look, we have, I think some, please, of these new...
+
+Dave (13:54.574)
+the memo on the top of Amazon, I think it was the only time that they did it, and consider it even post-facto. And this was on C.D. Park. You know, if you did this with like Amazon, you didn't have a specific memo to start with, to read, to validate, but you did end up in a visibility-improving situation, and you are holding the hand, maybe go back and write it anyway, if you didn't agree with it, and just take it.
+
+Duena Blomstrom (14:03.214)
+And this will sound silly, but you know, if you didn't do it like Amazon, you didn't have this big memo to start with, to read, to dwell in. But you did end up in a disagree and commit situation and you are moving ahead. Maybe go back and write it anyways and see if you still agree with it. Three, six days into it, three, six prints into it. I don't know how many prints you need for it. I've never actually seen the Amazon memo live.
+
+Dave (14:28.231)
+I've never actually seen the Amazon memo live inside a meeting of you.
+
+Duena Blomstrom (14:33.266)
+inside of each of you? Yes, it is incredibly unpopular to do because it takes a degree of facilitation and so if you don't have it as a company norm it's really difficult to facilitate right. You as a facilitator you have to be comfortable with a lot of very uncomfortable silencing, any exercise that pushes people right.
+
+Dave (14:54.046)
+We come up with a lot of very, very uncomfortable times in any exercise that pushes people, right? The ones that I find most difficult are the ones that force people to roll, for instance. Have you ever been in a sports intimacy exercise or ADR? Oh yeah, yeah. Team building exercise, everyone get in this tub and see if you can move it six yards. No, no.
+
+Duena Blomstrom (15:00.394)
+The ones that I find most uncomfortable are the ones that force people through, for instance. Have you ever been in a forced intimacy exercise or a... Tell me, team building exercise, everyone can use a tub and you can move it six yards. No, no, I'm not talking about those ones. I'm more talking about the really worthwhile ones that the American...
+
+the American special forces sometimes do as an empathy increase where people stare at each other or where people tell each other something super deep. So those are difficult things to bring about as a facilitator. And this is one of them, the memo, right? Because what it includes is someone has went through a lot of trouble and written this thing. And then it includes reading out loud.
+
+Dave (15:45.262)
+bring about as a thing. And this is part of the menu, right? Because we're just doing this somewhat for a lot of people, it's in written this thing. And then it's in two, reading out loud. As you know, because this video is plenty of our of our given of this session. Getting people to think about how the internet is an enterprise that's getting better. And then getting them to actually think together is also difficult. But
+
+Duena Blomstrom (15:57.894)
+As you know, because you've facilitated many of our people in our tech sessions, getting people to read something out loud together off a screen is enterprise that's difficult in itself. And then getting them to actually do something together, it's also difficult. But making that happen together in a room when they think they're also busy and why are we reading like silly people is hard. Well, I think I found as well that doing the meat.
+
+Dave (16:21.546)
+but making that happen I think I found as well that you know during the meetings it's very disarming to people as well if you just throw a notepad up on the screen and just say right I'm going to start capturing this live and then it's just like oh hang on what was that word there what was that there shall we change this around shall we move this around
+
+Duena Blomstrom (16:27.79)
+It's very disarming to people as well. If you just throw a notepad up on the screen and just say, right, I'm going to stop capturing this live. And then it's just like, oh, hang on, what was that? What was that? Shall we move this around? Shall we move this around? I like that. I like that. Because otherwise people are just talking over each other, shouting at the same points. We captured that. We captured that. We captured that. Well, I will say I'm not a specialist.
+
+Dave (16:44.854)
+Because otherwise people are now just talking over each other, shouting at the same points. We captured that. Well, I would say I'm not really a computer data. And I expect you are a designer. But to have to pick up a couple of things.
+
+Duena Blomstrom (16:57.246)
+facilitator and I suspect you aren't either but we have picked up a couple of things over our time and I think yes this is a good one putting up any kind of a whiteboard or any kind of a notepad and saying do we agree on this and another thing I always advise these days and you know this I do this even live with our teams is okay one second this is a complicated one this is what I believe it means
+
+Dave (17:05.838)
+I think that's the point of a web course, is any kind of a workbook.
+
+Do we agree on this? Another thing that I always apologize for is, okay, one second, this is a complicated one. What I believe is that you can tell me what you believe and do it in your definition of justice. And I agree with that thing, that the work is put in every teaching we face. Every meeting can benefit from an agreement on the question of justice.
+
+Duena Blomstrom (17:25.75)
+Can you tell me what you believe it means and can we agree on a definition together? And I agree with, I'd agree. I'd advise we do this in every meeting these days. Every meeting can benefit from an agreement on definitions upfront. In particularly when you have these meetings that are in between tech and people. Oh yeah, department sort of start meeting, just on what are we coming in this widget.
+
+Dave (17:40.462)
+In particular, when you are with somebody who thinks at 10. Oh yeah, cross department sort of style meetings and it's just like what are we calling this widget? Some people have called it widget A, some people call it widget B or some other terminology which has come in from another company sometimes. It's just like hang on, that's not what we call it here. And then, yeah, so the reference of terms, very, very handy.
+
+Duena Blomstrom (17:51.574)
+Some people are called BK, some are called BKB or some other terminology which has come in from another company sometimes. It's just like, hang on, that's not what we call it here. Right. Having a common... Yeah, so the reference of terms, this is what we mean by this. Right. Right, there were these companies, I don't know if I can name them, there were not back in the day that were famous for having an internal translator app.
+
+Dave (18:09.366)
+This is what we mean by this.
+
+These countries are much like the nation, we're not backing the data. The same in Canada, the same in the United States.
+
+Duena Blomstrom (18:22.266)
+Some of us listening to this would know who I'm talking about, but they would just genuinely have an internal vocabulary, and if you didn't speak under those particular terms, no one would understand. Which is obviously not the greatest of ideas either, but... No, there's limits, isn't there, I think. There should be, but are there. Yes, I think getting a common language in every piece of communication these days is more important than ever, because...
+
+Dave (18:25.01)
+I think it's generally open in terms of the capital area.
+
+Dave (18:32.251)
+which is a really great way to get the idea. Limits, isn't it, to everything? That's...
+
+Dave (18:42.914)
+Yes, I think getting your current language is every piece of communication you're able to...
+
+Duena Blomstrom (18:50.674)
+We are rushed, we are busy, we are bombarded with information and agreeing on terms is getting harder and harder and it forms the basis of our issues in every industry, right? Yeah, absolutely. So what do you what do you find when it comes to developers in terms of wanting to?
+
+Dave (18:50.702)
+We are rushed, we are busy, we are busy with information and the way of getting things happening, it's possibly about issues in every industry. Yeah, absolutely. It does. What do you find when it comes to developments in terms of more to hear the party a bit in terms of motivation and vision?
+
+Duena Blomstrom (19:16.126)
+hear the fluffier bits in terms of this motivation and vision that they would need on a daily basis if they're doing harder things. How open would they be to that? And do you hear it lots? I do, I do. Obviously with tools like what we're talking about here, what the scientists are talking about, it's very easy to just get pushed to a nice stand. And obviously everything you've been saying over the past 15 years or so.
+
+Dave (19:27.639)
+any specific way of coming up with it. How often would they be to that? And are they a problem? I do, I do. And there is, obviously, with tools like we're talking about here and subjects we're talking about, it's very easy that they just get pushed to a nice tap. And obviously, everything you've been saying over the past 15 years or so plus is.
+
+Duena Blomstrom (19:46.71)
+is that it's not just that I have to have, right, this needs to be fun to the centre for these teams to be highly performing, but even then it's still getting that message through and getting people to understand what's actually happening is a very hard thing, because again, you know, coming back to McKinsey Gate, you know, people are only paid by the amount of taps they do on the
+
+Dave (19:47.35)
+that it's not just a knife to have, right? This needs to be front and center for these teams to be highly performing. But even then it's still getting that message through and getting people to understand what's actually happening here is a very hard thing. Because again, you know, coming back to McKinsey gate, you know, people are only paid by the amount of taps they do on the keyboard. It's not for all the other things that go.
+
+Duena Blomstrom (20:15.714)
+all the other things that go around the outside of it. And this is obviously one of those things which people...
+
+Dave (20:17.178)
+man outside of it. And this is obviously one of those things which people
+
+Dave (20:24.834)
+can get very neglected by and neglect and multiple reasons for that. I think one of them is that, you know, let's paint the typical IT stereotype again, which no one really particularly likes and, you know, no one is the moss I've ever met. But you know, there's certainly a few characters like that hanging around.
+
+Duena Blomstrom (20:24.874)
+can get very neglected by and neglect and multiple reasons for that I think. One of them is that...
+
+Let's paint the typical IT stereotype again, which no one really likes and no one is the Moss I've ever met, but there's certainly a few characters like that hanging around. That's not a reference they would fly with our friends from the Americas. Well, I think they like the IT felt, yeah. I don't think the IT crowd travelled across the pond. Absolutely. It did? Okay, not bad. And about third attempt to try to remake it, I think.
+
+Dave (20:54.53)
+Well, I think I like the IT crowd, do you know? I think the IT crowd helped with the... Absolutely did, yeah. And about third attempt to try and to remake it, I think, flat. Didn't it as well? But yeah, I think they did. Please correct me if I'm wrong on that. Yes, where was we? Yes, fluffy topics and developers. And Moss. And Moss, yeah. It's...
+
+Duena Blomstrom (21:06.266)
+in me as well. Yeah. But yeah, I think that's it. Please correct me if you're wrong, I'm on now. Yes, where was we? Yes, Fancy Topics and Developments. And MOS. And MOS. Yeah. It's...
+
+Dave (21:22.734)
+not seen as productive work and I think that's because it's very you know worthwhile productive work and that's hard because we can't measure it but as soon as we start measuring it you know using the tools you've got here then it comes more of a thing more of a real thing more of an understandable thing as soon as people can see some form of a metric going up or down or you know an indicator going up or down
+
+Duena Blomstrom (21:22.754)
+not seen as productive work. And I think that's because... Worthwhile. Yeah, worthwhile productive work. And that's hard because we can't measure it. And now... As soon as we start measuring it, you know, using the talk to go here, then it becomes more of a thing, more of a real thing, more of an understandable thing. As soon as people can see some form of a metric going up or down, you know, an indicator going up or down, that really helps people get over the line.
+
+Dave (21:49.93)
+that really helps people get over the line of what's actually happening.
+
+Duena Blomstrom (21:54.475)
+actually happening. Exactly that and I mean you know everyone is trying to crack this right I don't know anyone who makes software or writes anything that is genuinely just trying to destroy anything right everyone has good intentions but with that said because this area is so new and because we have done so badly by our people by not doing it faster
+
+Dave (22:02.446)
+Thank you.
+
+Dave (22:07.65)
+With that said, because this area is so new, and because we have done so badly by our own doings, we have an absolute lack of understanding as to what type of software or tools or methods are needed for the, I would say, habitual human rights.
+
+Duena Blomstrom (22:19.654)
+we have an absolute lack of understanding as to what type of software or tools or methods are needed for the, I would say, habitual human work and or that this work is needed, right? So the message hasn't permeated anywhere and it's not supported. Now,
+
+Dave (22:35.17)
+and or that is what we need to write, because the message hasn't permeated anywhere and it's not supported. Now, after this whole open question, we were up against several non-script registers. The first one was the one with banter together,
+
+Duena Blomstrom (22:45.258)
+I said this all over, right, that we were up against several times of resistance. There's first and foremost the one we battle together here and everywhere else, which is the organizational level resistance, where it becomes a group collection of mini-fears or of dread or of inability of being honest or who else, who knows what else, inside the organization is keeping them from exterminating their human death.
+
+Dave (23:03.706)
+of the Jedi and all of the inability of being on Earth. Or who else, who knows what else, inside the Earth is keeping them from exterminating the human race. But there's also the difference between the human race and the personal level of the people that need to be trained as human beings. That difference is not ill-well. That is the first thing, but it's completely different. It's incredibly different from the human race. And it's a battle of years and years of absolute battle.
+
+Duena Blomstrom (23:13.726)
+But there's also resistance at the team level. There's resistance at the personal level of the people that need to be doing this human work. That resistance is not ill will. That resistance is on the back of a completely deteriorated relationship with their employer. And it's on the back of years and years of absolute burnout, both intellectually and informationally and emotionally. And it's on the back of working in organizations that are not fit for what we need to be doing in technology today.
+
+Dave (23:36.932)
+and is on the back of working in organizations that are not fit with what we need to be doing in technology today. That's what we need to attack. We have to fix those situations before we are applying them to the human world. We also need to start saying we need to let the human world care, try to understand care more than health care today. Absolutely.
+
+Duena Blomstrom (23:43.05)
+That's what we need to attack. We have to fix those situations before these people will apply themselves to the human work. But we also need to start saying, you need to do the human work. Here's how you're gonna be doing it. Here's how we're gonna help you today. And I think once people start doing that, people are going to start doing that human work and then there will be the different chaser between, you know, different chaser between team A and team B. Well, team A are working like this.
+
+Dave (23:58.974)
+I think once people start doing that human work and more teams start doing that human work and then it will be the differentiator between you know what's the differentiator between team a and team b and it's just what team a are working like this they're using you know this tool doing this way working with these practices uh be you know very interesting to see how we can compare multiple teams across multiple companies and in the way they're doing that
+
+Duena Blomstrom (24:12.278)
+this tool, doing this way, working with these practices. Are you interested to see how we can help multiple teams from different companies in the way they do it? I cannot wait to see the first batches of data that are coming out of our usage because I don't even believe we're going to need to say that they're using the software. You're going to be able to tell what teams are working on their emotions and behaviors from a mile off.
+
+Dave (24:29.946)
+because I don't even believe that they're using the company. They're going to be able to sell what machines are working on heavy motion safety areas from a mile off versus the ones that don't. And even if we go to the beginning, what we see with our tourists, people are like, you know, this is not an interaction about that. It's not actually.
+
+Duena Blomstrom (24:41.118)
+versus the ones that aren't. And in particular at the beginning, what we see with our tool is that people, this is not an entire show about our tool, but it's a unique, it really is not. It really is not, anyone who knows us knows it's not. But we need to talk about it because it just happens to be something we have decided to give the industry so that we counteract this measure, don't measure on lines of code. And instead we move the rhetorics towards the team and measuring of genuine human value
+
+Dave (24:54.37)
+We need to talk about it because it just happens to be something we have besides giving the free stock and we counteract this measure.
+
+And instead, we move the correctness to T and measure the place of internal value and not the stillness. So that's why we're talking about. But with that said, they said, once you don't use our tools, do something else, but make sure you put numbers in terms of people, that they can see that behavior, that they can see that they can pay the revenue that you want, make sure you continuously
+
+Duena Blomstrom (25:10.694)
+and not the silliness that's happening. So that's why we're talking about it. But with that said, as Dave says, once you put numbers, don't use art or use something else, but make sure you put numbers in front of people that they can see their behavior changing and that they can see the effect of their behavior changing on their actual work. Make sure you continuously insist on reaffirming this purpose no matter how many people...
+
+roll their eyes and sigh and think it's worthless, that you keep doing this day in and day out as a human debt fighter. Absolutely. And talk about human debt, I think you've also got one now. Now that we have a few minutes left of this podcast, Dave has been on this quest of translating
+
+Dave (25:39.259)
+I think that we keep doing this even though they are as a human debt fighter. Absolutely. And talking of human debt, should we move on to that one now then?
+
+Duena Blomstrom (26:07.786)
+translating the relationship between the two and I don't think we're anywhere near figuring that one out yet, are we? Yeah, it does feel like this, but there's some work coming in then. Do you want to walk or...? I was going to say, yeah. I thought about it the other day, which is quite over-seemed I think, which is the differences and the similarities between...
+
+Dave (26:09.711)
+and also translating the video. Yeah, yeah. Yeah, yeah, it does feel like an exercise somewhat dumping it down. But, yeah, yeah. I was going to say, yeah, so I threw a blog up the other day, which was quite well received, I think. Which is, you know, the difference is
+
+and the similarities between tech debt and human debt. And technical people, I think, we're all on board with what tech debt is. And being able to talk about that as well is just helping to reframe that a little bit. So, I know you picked some issues apart with this one. So.
+
+Duena Blomstrom (26:37.274)
+and you know take the technical paper off it and we're all on board with what tech debt is and being able to relate that to what human debt is as well is you know just helping to explain a little bit. So let's I know you have some issues apart with this one so I haven't I haven't remarked on it in any which way go ahead I think most yeah
+
+Dave (27:00.35)
+Yeah, so I'm basically going to read from the slides now, which everyone hates doing. But so if we go for the technical debt and overview, we shouldn't be really arguing about this. I'm sure we can fluff it out some more if I wanted to. So tech debt refers to the implied cost of additional read work caused by choosing a quicker yet suboptimal solution now instead of using a better approach that would take longer. So it can arise from various sources, including rush code.
+
+Duena Blomstrom (27:04.574)
+So if we go through the technical overview, which should be really argued about this, I'm sure we can fluff it out more if I wanted to. So tech debt refers to the implied cost of additional read work, caused by choosing a quicker yet suboptimal solution now instead of using a better approach that would take longer. So origins, it can arise from various sources, including rush code, lack of documentation, outdated technologies are not a way to best code your practices.
+
+Dave (27:29.042)
+lack of documentation, outdated technologies, or not adhering to best coding practices. And the impact of that, as we all know, over time tech debt can slow down on development processes, make the code base harder to maintain, and increase the risk of bugs and or system failures. So you know, from a technical person, some of that you can fluff out, but I think it's all pretty much non-controversial. So what's the review of human debt? Well,
+
+Duena Blomstrom (27:34.586)
+And the impact of that, as we all know, over time tech debt can slow down development processes, make the codebase harder to maintain, and increase the risk of bugs that make your system famous. So, you know, from a technical person, some of that fluff out, I think it's all pretty much not controversial. So what's the overview of the human debt? Well, the human debt encapsulates your
+
+Dave (27:59.254)
+The human debt encapsulates the organization, organization all, sorry, and cultural challenges that you've got to performance and productivity in terms. The origins is created when organizations fail to address people-related issues, such as lack of respect, poor compensation, absence of psychological safety or mismanagement, and impact. Just as technical debt affects software quality and delivery timelines, human debt affects team morale.
+
+Duena Blomstrom (28:04.206)
+and cultural challenges that end the optimum performance and productivity of teams. The origins is created when organisations fail to address people-related issues such as lack of respect, poor compensation, absence of psychological safety or mismanagement and the impact. Just as technical debt affects software quality and delivery timelines, human debt affects team morale, productivity and overall organisational health.
+
+Dave (28:28.162)
+productivity and overall organisational health.
+
+discuss. And I think, well, so do we need to pick anything out there and say, that's not quite why I don't see it quite that way for human debt?
+
+Duena Blomstrom (28:33.494)
+discuss. Do we need to pick anything up there and say that's not quite what I don't see it quite that way for you.
+
+Dave (28:46.506)
+It's nothing correct.
+
+Duena Blomstrom (28:46.514)
+It's not incorrect. And it's also an incredibly fun exercise to attempt to see how our teams, our partners, and chat GPT sees a concept that didn't exist before we came up with it. So to look at the suggestions that chat GPT has come up with ever since it's been thrown on the market, when it's being trained on things I've written, always
+
+Dave (28:52.862)
+how teams, our partners and just GPTEC, a concept didn't exist before we came up. So to look at a suggestion that just came up ever since we came to the market, when it's being done for different reasons, always may with dread and hatred. And...
+
+Duena Blomstrom (29:14.57)
+fills me with dread and itch. And why that is, is because I think the concept of human debt is ironically one of the best examples of why we have to step it up on the human bits, otherwise we're gonna end up being kind of inferior to a machine. And that is,
+
+Dave (29:20.774)
+why that is because I think the positive thing is ironically one of the best examples of why we have to set up on the human being otherwise open-ended
+
+Duena Blomstrom (29:44.314)
+It doesn't grasp it. It just doesn't quite grasp it. And then you don't know it didn't until it throws in one or two words that are just genuinely wrong. In this particular incarnation that you've read, there is nothing flagrantly incorrect. There are things that genuinely irk me. There are things that I think are bringing the discourse down in some ways, but that's all right.
+
+Dave (29:50.902)
+I think one of the words actually genuinely wrong. In the sense of information with the breath, I think it's not a flavor to think of breath. There are things that genuinely are clear, there are things that I think are breaking the discourse down in some ways, that's alright. And there are also things that I think, in many eyes,
+
+Duena Blomstrom (30:14.518)
+and there are also things that I think minimize the stature of the concept. Yeah, but if you take all of that, those objections away, it's not Boloch's, which is what's important. There's nothing in it that's Boloch's. Yeah, for the record, our listeners would be finding it hilarious to hear that what we're doing sometimes for a trial, shall I tell them?
+
+Dave (30:42.087)
+the Yeah Let's lift our skirts
+
+Duena Blomstrom (30:44.358)
+Yeah, why don't we drop our pants? I think it is not so lift. It's lift the veil, drop the pants and not lift the skirt. I think we find our way into an inappropriate dressing code. I know. Well, we've been saying that to each other about five times a day. Five times a day, yes. We scream at each other about how we're going to go to HR with this one. But so let's lift the skirt, which is.
+
+Dave (30:58.138)
+I know. Well, we've been sending each other to HR about five times a day. We had to worry about stuff.
+
+Duena Blomstrom (31:12.342)
+When we came out with the announcement, I've asked Dave to tell me how we make sure we translate this to Techies, but I've also asked Dr. Alessandra Polisi, who is kind of looking over our relationship with the HR professionals, to translate it towards there. And what I find is that it doesn't matter if what you guys come out with...
+
+Dave (31:15.696)
+They
+
+Dave (31:21.374)
+Dr. Ali from the group is looking over our relationship with the HR for future, who translated to a center. And what I think is that it doesn't matter if what you guys come out with is perfectly and exactly what I was trying to say, it matters if the spirit of the center and in others is nothing is incorrect. That's all I have my own...
+
+Duena Blomstrom (31:39.646)
+is perfectly and exactly what I would have liked to have said. It matters if the spirit of it is there and it matters if nothing is incorrect. That's all I am allowed to check and to object around. And so nothing here so far is incorrect. But I would finally object to if you reread it a little bit, I'll tell you exactly what it is.
+
+Dave (31:53.059)
+check and around. Nothing here is incorrect but I would finally have this if you did it um okay well we'll carry on anyway so comparing the two kit the two the key insights this one is so accumulation over time take that accumulates when teams prioritize speed over quality often due to external pressures or tight deadlines it's like paying interest on a loan the longer you
+
+Duena Blomstrom (32:09.494)
+Tick-tick debt accumulates with teams over a speed over quality, often due to external pressure or tight deadlines. It's like paying interest on a loan. The longer you leave it, the more it costs. And human debt builds up in teams or organisations to neglect the wellbeing and professional growth of their members. It's the interest paid on neglecting team dynamics and individual needs. The last part is 100 per cent, the first part is a bit like the growth conversation and stuff is a bit...
+
+Dave (32:20.17)
+the more it costs. And human debt builds up when teams or organisations neglect the wellbeing and professional growth of their members. It's the interest paid on neglecting team dynamics and individual needs.
+
+Dave (32:38.874)
+Yeah. Can I comment? We want something else, and we should be able to relate that. But if it's drawn out in your article, please instruct me from the very beginning, is I don't think that any definition of sex that is actually one aspect of human that is manifested itself in thought. Yeah. I mean, it's a good argument. It's a very good argument. And you know, I think.
+
+Duena Blomstrom (32:38.89)
+Can I, can I, we might call something else and maybe we should wait until later, but as it goes down in your article, something that struck me from the very beginning is, I don't think that any definition of tech that is actually one of tech that, but of human that is it manifested itself in code. Yeah. I mean, it's a good argument. It's a very good argument. And, you know, I think with this definition of tech that.
+
+Dave (33:07.146)
+with this definition of tech debt, I think everything we do is tech debt. And I think we've had that conversation before. I'm not sure if we've had it on the radio, on the podcast, but everything which we do as technical people is tech debt. At some point it's going to be superseded by something else. It's only natural. I know there's some big old cobalt machines still knocking around running the banks of the world, but they're the exception of the world.
+
+Duena Blomstrom (33:09.322)
+I mean, everything we do is tech-tech. I think we've had that conversation before. I'm not sure we've ever had it in the radio. I mean, it's one task, but everything we do as technical people is tech-tech. At some point, it's gonna be superseded by something else. It's only natural, right? I know there's some big old COBOL machines still knocking around, running the banks of the world. But it's such a good one. No, no, no. There are none, no banks. No banks using COBOL at all now.
+
+Dave (33:35.942)
+No benches in Calibri. No, no, no. But yeah, so that is all tech debt. Everything we do is tech debt. Everything we do is going to be superseded in some way, shape or form.
+
+Duena Blomstrom (33:39.05)
+No, no, no. But yeah, so that is all tech debt. Everything we do is tech debt. Everything we do is going to be superseded in some way, shape or form. But everything we do is similarly, I think, that's the counter argument to it, is everything you point out to be some other type of debt, whether it's technical, administrative or
+
+Dave (34:01.546)
+Technico administrative or organizational. I think it's an attribute of everyone of the organization to a more or several or more extreme human debt. OK. All right. So visibility then. Tech debt, often documented in code comments, backlog items, and documentation. In terms of metrics, like code complexity measures can help to identify. Human debt.
+
+Duena Blomstrom (34:05.41)
+I think we can attribute each and every one of those instances to a moment or several moments of extreme human death.
+
+Duena Blomstrom (34:16.723)
+So visibility, take that off the document, code, comments, backlog items, documentation, talking to metrics like code complexity.
+
+Human debt. This is going to be the fruit of your month. More intentional and harder to identify, the story is, it might manifest as increased turnover, decreased momentum, or reduced productivity, but requires keen observation and open communication to identify.
+
+Dave (34:28.726)
+Here we go, this is going to be the fruity one. More intangible and harder to quantify, sure is. It might manifest as increased turnover, decreased morale, or reduced productivity, but requires keen observation and open communication to identify.
+
+Duena Blomstrom (34:45.41)
+I mean, I don't even need to attack it. Reduce productivity, the two words in themselves give me a need for an anti-histamine pill. And I mean, no, it's not wrong, but it's not right. And as everything else coming from the charged GPT, and this is not charged GPT directly, we must say this is curated by humans on top of it. It's just not.
+
+Dave (34:48.11)
+the youth productivity to do what you tell them. You give me an equal and an equal opportunity to speak up.
+
+Dave (35:10.256)
+And I mean, no, I mean, it's not wrong. No one. Yeah. Well, absolutely. And, you know, people say I'm cheating there, but people don't.
+
+Duena Blomstrom (35:14.802)
+been allowed to be curated by yours truly so that it can actually be readable by... Well, absolutely. I think that's, you know, people are saying things like that, but people don't... People are not being replaced by AI. People are being replaced by people who use AI. So, you know, this to me, if it gets me 80% of the amount, you know, job done. Oh!
+
+Dave (35:25.75)
+You know, people are not going to be replaced by AI. People are going to be replaced by people using AI. So, you know, this to me, if it gets me 80% out of the ground, job done. It's amazing. Oh. It's amazing.
+
+Duena Blomstrom (35:41.918)
+It's why we're finally starting to understand that it's simply an accelerator and they're starting to finally make co-pilots for both writing code and writing words, right? It's finally getting there, yes. So I'm not attacking the methodology, I am attacking the ability this thing has to both completely comprehend it and absolutely miss it. Absolutely, yes. And maybe that's just part of the human play at all. Maybe that's the other part.
+
+Dave (35:50.302)
+right. It's not a good idea. So another question about methodology. I think the ability to think how to both completely comprehensive and absolutely miss it. Absolutely yes and maybe that's just part of the human flavor that we'll be missing. Maybe that's the whole part of it, you know, the whole part of AI that we'll be missing. But let's crack on repayments.
+
+Duena Blomstrom (36:12.438)
+on the front page, I'm not going to be missing. Yeah, maybe. Let's crack on. Repayments. Tech debt, addressed by the re-factoring code, updated documentation, or investing in better tools and technologies. Fairly simple. I'm not sure it is comprehensive. Is it really? That's not comprehensive by any way. Yeah. No, you know, as I say, if everything we do is tech debt, that's going to be a long, long list. We start again. Yeah. But it's human debt.
+
+Dave (36:18.618)
+Tech debt addressed by refactoring code, updating documentation or investing in better tools and technologies. Fairly simple. That's not comprehensive by any way, Shachar. No, you know, as I say, if everything we do is tech debt, that's just gonna be a long, long list. We'll just start again. But human debt, repaid by fostering a culture of psychological safety, investing in team building,
+
+Duena Blomstrom (36:41.074)
+be paid by fostering a control of psychological safety, best of the team building, and ensuring fair treatment opportunities for all people.
+
+Dave (36:45.982)
+ensuring fair treatment and opportunities for all team members.
+
+Duena Blomstrom (36:51.522)
+I mean, you know, sure, same level of just don't be a dick in fluff written by HR that you read everywhere else. What does this mean? Foster a culture of psychological safety. What does that mean? You know, I mean, we've never been against it. But you know, it's we all know it's bollocks and doesn't mean anything like sure foster a culture. Why don't you just like it? Can we just not fuck it up?
+
+Dave (36:55.15)
+same level of this don't be a big blast written by a specific writer without the same false character of a psychological thing. What does that mean? You know, I mean, we've never been into it, but you know, we all know it's more of a beginning. Sure, false character, why don't you? Just make everyone happier. Thank you. Can we just make everyone happier? Can we just go back? You'll be happier, you'll be happier, you'll be happier. That should be a thing, yeah. Yes.
+
+Duena Blomstrom (37:21.206)
+That's absolute insanity. Every time I see this type of living there, foster a culture, be vulnerable, let people into your soul. It's just absolute insanity. We cannot continue having this type of conversation. But okay, foster the culture. What can I tell you? Is that it? That's all we need to do to repay it? No? No, no, no. That's all we need to repay it. Consequences of ignoring. Oh.
+
+Dave (37:24.994)
+What sort of project?
+
+Dave (37:37.196)
+Yeah. No, no, that's all we need to repair. Consequences of ignoring. So technical debt leads to a more complex code base, longer development cycles and increased risk of defects. Again, very far from comprehensive. But the human debt results in decreased demoral, higher sickness rates.
+
+Duena Blomstrom (37:50.138)
+So, changing the debt leads to more complex code base, longer development cycles and increased risk of defects. Again, very far comprehensive. But the human debt results in decreased TMI, higher sickness rates, higher turnover rates, reduced productivity and potential burnout. I think this is all bollocks. Absolutely, it's not. These are not. Absolutely all bollocks. These are not the fears. These are minor.
+
+Dave (38:02.466)
+higher turnover rates, reduced productivity and potential burnout.
+
+Dave (38:09.49)
+or books.
+
+Duena Blomstrom (38:16.33)
+potential consequences no one should worry about the real fear should be that they will not be around You mean the company? The company will not be around They will not have a little bit of burnout in a corner and some more antiquated code. It's not that non serious. Yes But the organization itself cannot or will not survive without these issues
+
+Dave (38:16.462)
+attention because there's no one to worry about. The real thing is that they will.
+
+You mean the company? The company will not be around.
+
+Dave (38:35.443)
+Yes, but the organisation itself cannot or will not survive without these issues being addressed.
+
+Duena Blomstrom (38:44.49)
+They won't be around. No, there is no universe in which a company today that has masses of human debt that is ignoring it because they have this old school of execs on their way out or they have just enough people having imposter syndrome at the same time in a meeting so no one has the balls to speak up. I don't know what they have, but no one has masses of human debt and doesn't do anything about them.
+
+Dave (38:54.002)
+because they have this whole school of big sex on their own young, or they have just enough to go have sex with. So, I think that's a good point.
+
+in a meeting so no one has the balls to speak up. I don't know what they have. But no one lets Manchester City and London do anything about that. The ways going to be able to address that fix this, all is not to be able to stop themselves from getting what they say. All is going to be able to stop themselves from getting each and every head that's the second of this movement that goes to the roof, which is when you are, when you come back to the object, which is.
+
+Duena Blomstrom (39:14.594)
+we're going to be able to address their tech debt or is going to be able to stop themselves from getting more tech debt or is going to be able to stop themselves from creating instant tech debt. The second that the human debt goes through the roof, which is when you ask people to come back to the office, which is when you completely ignore any of the things you've learned for 15 years and you start checking their code. Sorry, I can get on one when it comes to this.
+
+Dave (39:33.422)
+when you completely ignore any of the problems that you have and you start checking that problem. So if I can get the other one would come to me. No no no that's fine though that's fine. So I mean look in conclusion it wasn't a bad article I don't think. It wasn't bad and I think for starting the team it wasn't the worst. I'll take that I'll take that but I'll definitely be
+
+Duena Blomstrom (39:47.951)
+So, I mean, like, in conclusion, it wasn't a bad article, I think. It wasn't bad, though. It wasn't bad, I think, for some reason. It wasn't the worst. It was not the worst. I don't know. But I was definitely refreshing this idea out. Definitely reworking some more fresh ideas and definitely hardening it up. And with the demos and the walkthroughs of the dashboard and the demonstrations of the actions, etc.
+
+Dave (40:02.35)
+Definitely we put in some more flesh on these buttons and definitely hardening it up. And with the demos and the walk-throughs of the dashboard and the demonstrations of the actions, et cetera, then I hope this will come a lot more clear to everyone. My thanks to our beings. We have the day. Thanks for the good work.
+
+Duena Blomstrom (40:14.87)
+then I hope this will come a lot more into it. I think the industry has Dave Ballantyne to answer to if they don't want to be doing any of the human work now, so look out. You could ignore me, but good luck ignoring him when he's being sensible. But also I think that this is the time for everyone to attempt to do some of this work. We're trying to help as much as humanly possible.
+
+Dave (40:31.854)
+But I think this is the time for everyone to attend to some of this work. We're trying to focus on what is really possible. We know this is hard for everyone, at the top and bottom, at the level of the organization. It's extremely, I don't know, safe for us, particularly. And it's hard to even think about this big topic when they take that level of trouble. We have financial hit in Europe, you get.
+
+Duena Blomstrom (40:39.806)
+We know this is hard for everyone at the top, at the bottom, at every level of every organisation. It's an extremely unsafe period to a degree. And it's hard to even think about these big topics, human debt, tech debt, whatever that, when you have financial debt in your own pocket. And I know most of us listening to this absolutely do. And so I'm not claiming that...
+
+Dave (41:00.59)
+And so I'm not claiming that we can all take our eyes off of it and just have to think. But, and, but again, the human that is not going to take the topic, the text that is going to take the topic, both of these things are coming to bite us, not someday, now, every
+
+Duena Blomstrom (41:08.946)
+We can all sit in our ivory tower and discuss these things but and but again The human that is not a theoretical topic the tech that is not a theoretical topic Both of these things are coming to bite us not someday Now every day they're putting their having a toll on the enterprise more importantly they're having a toll on each of us So we can start chipping at them
+
+Dave (41:30.574)
+I think that maybe that's all at the end of that. All the other things are in the form of each other. So we can start thinking of them tomorrow if you like. Come talk to us. We'd love to have a word with you. Today we're going to talk a lot more than I had to. But until next time, please think about it in a light background. Could it be that all the people who are accusing are really just human debt encoded? Human debt encoded. I like it. I like it.
+
+Duena Blomstrom (41:38.634)
+tomorrow if we liked. Come talk to us, we'd love to help where we can. They will help a lot more than I ever would. But until next time, please think about it and write back to us. Could it be that all the tech that we're accusing is really just human debt in code? Human debt in code. I like it. I like it.
+
+Dave (42:00.942)
+We'll listen to each other some more. We'll talk about all this hopefully. And we'll see you at www.bedstupedcypher.com where it is possible to go to both. Also, come visit the Secret Society of Modern
+
+Duena Blomstrom (42:00.958)
+We'll listen to each other some more. We'll talk about all this hopefully, and come see us at techledculture.com where it's a new home for all the pods. Also come listen to the Secret Society of Human Work Advocates and Human Death Fighters. Why wouldn't I plug my own podcast on this one? Thank you for the title. I love it, I love it. It's long for a reason, yes. And also come join us. We are...
+
+launching a bunch more pods on the passions that others have when it comes to the human work and ideally yes start buying the book as well I keep forgetting about this I do have a book launch within the next few minutes in fact by the time you're listening to this it's probably going to be hot off the press just about to hit your inbox or no your box your mailbox this one is one to just order online.
+
+Dave (42:42.126)
+Yep.
+
+Dave (42:46.286)
+it's probably going to...
+
+Dave (42:53.87)
+This one is one to just order online. Hope no money for the paperback.
+
+Duena Blomstrom (42:58.294)
+costs no money because it's paperback, you can tuck it in the back of your jeans on a real life walk, how about that, that would be innovative, or stuff some stockings with it. But we'll talk to you next week and until then please subscribe and follow us and write to us and come find us. No, thanks everyone.
+
+Dave (43:02.606)
+be a lot of fun. Or stuff we're stopping for today. But we'll talk to you next to the Genesys and then if you subscribe and follow us and try to ask things. Come and find us. No, thanks very much everyone. Speak to you again next time. Bye bye.
+
+
+
